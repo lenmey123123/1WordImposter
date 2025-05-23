@@ -1,0 +1,9 @@
+// BarnebyAppNeu/tsconfig.json
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true // Wichtig für Kompatibilität
+  }
+}
